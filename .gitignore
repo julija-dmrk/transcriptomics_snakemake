@@ -1,0 +1,10 @@
+.svg
+data/
+environment.yaml
+calls/
+mapped_reads/
+plots/
+sorted_reads/
+.snakemake/
+*.tar.gz
+
